@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/technion/balanceme/balance_me/BuildConfig.java
+ com.technion.balanceme.balance_me.BuildConfig

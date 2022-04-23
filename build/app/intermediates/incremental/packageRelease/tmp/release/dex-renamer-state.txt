@@ -1,0 +1,4 @@
+#Wed Jan 19 22:45:45 IST 2022
+base.0=/Users/raz/Projects/2022a-BalanceMe/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

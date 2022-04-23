@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/raz/Projects/2022a-BalanceMe/build/flutter_login_facebook/intermediates/merged_res/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/raz/.gradle/caches/transforms-3/782e6f858d7a0e80e170cb55d5b0925e/transformed/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/raz/Projects/2022a-BalanceMe/build/flutter_login_facebook/intermediates/merged_res/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/raz/.gradle/caches/transforms-3/782e6f858d7a0e80e170cb55d5b0925e/transformed/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/raz/Projects/2022a-BalanceMe/build/flutter_login_facebook/intermediates/merged_res/release/layout-v21/notification_action.xml",
+        "source": "/Users/raz/.gradle/caches/transforms-3/782e6f858d7a0e80e170cb55d5b0925e/transformed/core-1.6.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/raz/Projects/2022a-BalanceMe/build/flutter_login_facebook/intermediates/merged_res/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/raz/.gradle/caches/transforms-3/782e6f858d7a0e80e170cb55d5b0925e/transformed/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

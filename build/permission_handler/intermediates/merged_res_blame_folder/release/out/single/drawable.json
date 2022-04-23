@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/raz/Projects/2022a-BalanceMe/build/permission_handler/intermediates/merged_res/release/drawable/notification_bg_low.xml",
+        "source": "/Users/raz/.gradle/caches/transforms-3/782e6f858d7a0e80e170cb55d5b0925e/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/raz/Projects/2022a-BalanceMe/build/permission_handler/intermediates/merged_res/release/drawable/notification_bg.xml",
+        "source": "/Users/raz/.gradle/caches/transforms-3/782e6f858d7a0e80e170cb55d5b0925e/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/raz/Projects/2022a-BalanceMe/build/permission_handler/intermediates/merged_res/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/raz/.gradle/caches/transforms-3/782e6f858d7a0e80e170cb55d5b0925e/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/raz/Projects/2022a-BalanceMe/build/permission_handler/intermediates/merged_res/release/drawable/notification_icon_background.xml",
+        "source": "/Users/raz/.gradle/caches/transforms-3/782e6f858d7a0e80e170cb55d5b0925e/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+    }
+]

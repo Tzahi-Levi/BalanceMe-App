@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">675517691994-bg4pdq7ebir181sao5hcbs46usl5pse3.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">675517691994</string>
+    <string name="google_api_key" translatable="false">AIzaSyBny4071L8YsaRt5l66ecavTmXUPWIQtCY</string>
+    <string name="google_app_id" translatable="false">1:675517691994:android:9b06f05f4580ab0d474063</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBny4071L8YsaRt5l66ecavTmXUPWIQtCY</string>
+    <string name="google_storage_bucket" translatable="false">balanceme-d6a7b.appspot.com</string>
+    <string name="project_id" translatable="false">balanceme-d6a7b</string>
+</resources>
